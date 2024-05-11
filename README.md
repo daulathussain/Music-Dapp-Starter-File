@@ -6,7 +6,7 @@ Decentralized applications (Dapps), as we explore the creation and deployment pr
 
 ## Project Overview
 
-![alt text](URL)
+![alt text](https://www.daulathussain.com/wp-content/uploads/2024/05/Building-Deploying-a-MERN-STACK-Blockchain-Music-Artists-Social-Media-Dapp.jpg)
 
 ## Instruction
 
