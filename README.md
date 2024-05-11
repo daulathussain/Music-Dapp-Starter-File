@@ -28,6 +28,14 @@ Kindly follow the following Instructions to run the project in your system and i
   GET: VsCode Editor
 ```
 
+#### DEPLOYMENT
+
+- [Get $200 Credit](https://m.do.co/c/fbe1551c5ae1)
+
+```https://nodejs.org/en/download
+  PROVIDER: Digital Ocean
+```
+
 #### NodeJs & NPM Version
 
 ```https://nodejs.org/en/download
