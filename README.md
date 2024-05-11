@@ -1,4 +1,4 @@
-# Building & Deploying a MERN STACK Blockchain Music Artists Social Media Dapp
+# Building & Deploying a Full MERN STACK Blockchain Music Artists Social Media Dapp
 
 Building & Deploying a MERN STACK Blockchain Music Artists Social Media Dapp
 
