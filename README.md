@@ -12,7 +12,7 @@ Decentralized applications (Dapps), as we explore the creation and deployment pr
 
 Kindly follow the following Instructions to run the project in your system and install the necessary requirements
 
-- [Final Source Code](URL)
+- [Final Source Code](https://www.theblockchaincoders.com/sourceCode/building-and-deploying-a-full-mern-stack-blockchain-music-artists-social-media-dapp)
 
 #### Setup Video
 
